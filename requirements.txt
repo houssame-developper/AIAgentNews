@@ -1,0 +1,10 @@
+langchain_openai
+feedparser
+bs4
+langchain
+langchain_community
+faiss-cpu
+cohere
+requests
+os
+python-dotenv
