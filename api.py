@@ -10,7 +10,6 @@ app = FastAPI()
 
 @app.get('/')
 def main():
-   
    return {'response': 'main'}
 
 # نستخدم BaseModel للحصول على prompt من body
